@@ -6,7 +6,7 @@
 - Docker
 
 I managed the app to run in a docker container. To run it, just run the following command:
-```sh docker-compose up -d --build ```
+```docker-compose up -d --build ```
 
 The app will be running on port 3001. You can change it in the .env file and docker-compose.
 
